@@ -1,6 +1,5 @@
-# RTF
-Retarded transient function
+# The Retarded Transient Function Approach (RTF)
 
-This repository contains supplemental files and information for the manuscript "A new approximation approach for transient differential equation models"
+This repository contains the plots in the supplemental files of the manuscript "A new approximation approach for transient differential equation models" in high resolution.
 
-Please visit the Wiki (see link above) to find further information.
+Please click at "Code" in order see the files.
