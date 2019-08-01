@@ -2,6 +2,8 @@
 
 This repository contains the plots in the supplemental files of the manuscript "A new approximation approach for transient differential equation models" in high resolution.
 
+The journal did not support files larger than 30 MB, github does not allow files >100 MB. Therefore, the resolution has to be reduced.
+
 Please click at "Code" in order see the files.
 
 Supplementary File 1 shows the RTF approach (blue lines) for all ODE solutions (black lines) from the nine analyzed benchmark models.
